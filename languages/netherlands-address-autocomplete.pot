@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-06-09 11:47+0600\n"
+"PO-Revision-Date: 2024-06-09 11:47+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: includes/admin/admin-settings.php:12
+msgid "NL Checkout Autocomplete"
+msgstr ""
+
+#: includes/admin/admin-settings.php:13
+msgid "Settings for NL Checkout Autocomplete."
+msgstr ""
+
+#: includes/admin/admin-settings.php:37
+msgid "Enable Autocomplete"
+msgstr ""
+
+#: includes/admin/admin-settings.php:39
+msgid "Enable Address Autocomplete"
+msgstr ""
+
+#: includes/admin/admin-settings.php:43
+msgid "License Key"
+msgstr ""
+
+#: includes/admin/admin-settings.php:45
+msgid "Enter your license key."
+msgstr ""
+
+#: includes/admin/admin-settings.php:50
+msgid "Address Fields"
+msgstr ""
+
+#: includes/admin/admin-settings.php:53
+msgid "Show after filling"
+msgstr ""
+
+#: includes/admin/admin-settings.php:54
+msgid "Always show"
+msgstr ""
+
+#: includes/admin/admin-settings.php:55
+msgid "Hide all the time"
+msgstr ""
+
+#: includes/admin/admin-settings.php:57
+msgid "Select the behavior of address fields."
+msgstr ""
+
+#: includes/admin/admin-settings.php:61
+msgid "Editable Fields"
+msgstr ""
+
+#: includes/admin/admin-settings.php:64
+msgid "No"
+msgstr ""
+
+#: includes/admin/admin-settings.php:65
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/admin-settings.php:67
+msgid "Select whether address fields can be edited."
+msgstr ""
+
+#: includes/admin/setting.php:15
+msgid "Setting"
+msgstr ""
+
+#: includes/front-end/checkout-autocomplete.php:26
+#: includes/front-end/checkout-autocomplete.php:63
+msgid "Postcode"
+msgstr ""
+
+#: includes/front-end/checkout-autocomplete.php:36
+#: includes/front-end/checkout-autocomplete.php:73
+msgid "House No"
+msgstr ""
+
+#: includes/front-end/checkout-autocomplete.php:46
+#: includes/front-end/checkout-autocomplete.php:83
+msgid "Addition"
+msgstr ""
+
+#: includes/front-end/checkout-autocomplete.php:55
+#: includes/front-end/checkout-autocomplete.php:92
+msgid "Enter Address Manually"
+msgstr ""
+
+#: netherlands-address-autocomplete.php:88
+#, php-format
+msgid ""
+"The %1$sNetherlands Checkout Address Autocomplete%2$s plugin requires "
+"%1$sWooCommerce%2$s plugin installed & activated."
+msgstr ""
+
+#: netherlands-address-autocomplete.php:97
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: netherlands-address-autocomplete.php:105
+msgid "Install WooCommerce"
+msgstr ""
